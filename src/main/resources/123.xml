@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<products>
+    <product>
+        <size>
+            <height>5.0</height>
+            <length>10.0</length>
+            <width>5.0</width>
+        </size>
+        <мanufacturer>
+            <contact_person>Шандыбина Калерия Георгиевна</contact_person>
+            <country>Россия</country>
+            <name>Простоквашино</name>
+            <phone>+7 (918) 455-67-45</phone>
+        </мanufacturer>
+        <name>Творог</name>
+        <weight>250.0</weight>
+    </product>
+    <product>
+        <size>
+            <height>25.0</height>
+            <length>15.0</length>
+            <width>15.0</width>
+        </size>
+        <мanufacturer>
+            <contact_person>Шандыбина Калерия Георгиевна</contact_person>
+            <country>Россия</country>
+            <name>Простоквашино</name>
+            <phone>+7 (918) 455-67-45</phone>
+        </мanufacturer>
+        <name>Молоко</name>
+        <weight>1000.0</weight>
+    </product>
+    <product>
+        <size>
+            <height>25.0</height>
+            <length>15.0</length>
+            <width>15.0</width>
+        </size>
+        <мanufacturer>
+            <contact_person>Шандыбина Калерия Георгиевна</contact_person>
+            <country>Россия</country>
+            <name>Простоквашино</name>
+            <phone>+7 (918) 455-67-45</phone>
+        </мanufacturer>
+        <name>Кефир</name>
+        <weight>1000.0</weight>
+    </product>
+    <product>
+        <size>
+            <height>5.0</height>
+            <length>10.0</length>
+            <width>10.0</width>
+        </size>
+        <мanufacturer>
+            <contact_person>Борисов Сергей Владимирович</contact_person>
+            <country>Россия</country>
+            <name>Аютинский хлеб</name>
+            <phone>+7 (918) 583-04-23</phone>
+        </мanufacturer>
+        <name>Булка</name>
+        <weight>150.0</weight>
+    </product>
+    <product>
+        <size>
+            <height>10.0</height>
+            <length>20.0</length>
+            <width>15.0</width>
+        </size>
+        <мanufacturer>
+            <contact_person>Борисов Сергей Владимирович</contact_person>
+            <country>Россия</country>
+            <name>Аютинский хлеб</name>
+            <phone>+7 (918) 583-04-23</phone>
+        </мanufacturer>
+        <name>Батон</name>
+        <weight>200.0</weight>
+    </product>
+    <product>
+        <size>
+            <height>1.0</height>
+            <length>1.0</length>
+            <width>1.0</width>
+        </size>
+        <мanufacturer>
+            <contact_person>1</contact_person>
+            <country>1</country>
+            <name>1</name>
+            <phone>1</phone>
+        </мanufacturer>
+        <name>1</name>
+        <weight>1.0</weight>
+    </product>
+</products>

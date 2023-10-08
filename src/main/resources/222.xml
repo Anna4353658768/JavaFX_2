@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<products>
+    <product>
+        <size>
+            <height>1.0</height>
+            <length>1.0</length>
+            <width>1.0</width>
+        </size>
+        <мanufacturer>
+            <contact_person>1</contact_person>
+            <country>1</country>
+            <name>1</name>
+            <phone>1</phone>
+        </мanufacturer>
+        <name>1</name>
+        <weight>1.0</weight>
+    </product>
+    <product>
+        <size>
+            <height>2.0</height>
+            <length>2.0</length>
+            <width>2.0</width>
+        </size>
+        <мanufacturer>
+            <contact_person>2</contact_person>
+            <country>2</country>
+            <name>2</name>
+            <phone>2</phone>
+        </мanufacturer>
+        <name>2</name>
+        <weight>2.0</weight>
+    </product>
+</products>
