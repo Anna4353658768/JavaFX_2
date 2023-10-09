@@ -1,0 +1,63 @@
+
+
+Version:	3.50
+CmdLine:	C:\Users\理磬\IdeaProjects\JavaFX_2\ProductApp.exe --l4j-debug
+JNI:		No
+WOW64:		Yes
+Working dir:	C:\Users\理磬\IdeaProjects\JavaFX_2\.
+Requires JDK:	Yes
+Requires 64-Bit: No
+Java min ver:	1.004.000
+Java max ver:	
+Substitute:	JAVA_HOME = 
+Substitute:	PATH = C:\Program Files\Rockwell Software\RSCommon;C:\Lubae nenujna;C:\Program Files\Common Files\Oracle\Java\javapath;C:\Program Files (x86)\Common Files\Oracle\Java\javapath;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Windows\System32\OpenSSH\;C:\Program Files\Azure Data Studio\bin;C:\Program Files\Microsoft SQL Server\Client SDK\ODBC\170\Tools\Binn\;C:\Program Files (x86)\Microsoft SQL Server\150\Tools\Binn\;C:\Program Files\Microsoft SQL Server\150\Tools\Binn\;C:\Program Files\Microsoft SQL Server\150\DTS\Binn\;C:\Program Files (x86)\Microsoft SQL Server\150\DTS\Binn\;C:\Program Files\dotnet\;C:\Users\理磬\AppData\Local\Programs\Python\Python37;C:\Users\理磬\AppData\Local\Programs\Python\Python37\Scripts;C:\Program Files\Git\cmd;C:\Program Files\PowerShell\7\;C:\Users\理磬\AppData\Local\Programs\Python\Python311\Scripts\;C:\Users\理磬\AppData\Local\Programs\Python\Python311\;C:\Users\理磬\AppData\Local\Programs\Python\Python310\Scripts\;C:\Users\理磬\AppData\Local\Programs\Python\Python310\;C:\Users\理磬\AppData\Local\Programs\Python\Python37\Scripts\;C:\Users\理磬\AppData\Local\Programs\Python\Python37\;C:\Program Files\GTK3-Runtime Win64;C:\Program Files\GTK3-Runtime Win64\bin;C:\Users\理磬\PycharmProjects;C:\Users\理磬\AppData\Local\Microsoft\WindowsApps;C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2021.3.3\bin;C:\Users\理磬\.dotnet\tools;C:\Users\理磬\Desktop\Eclipse lib\SqlServerJDBC\sqljdbc_11.2\rus\auth\x64;C:\Program Files\JetBrains\PyCharm Community Edition 2023.2.1\bin;C:\Program Files\Java\jre-1.8\bin
+JRE paths:	;C:\Program Files\Rockwell Software\RSCommon;C:\Lubae nenujna;C:\Program Files\Common Files\Oracle\Java\javapath;C:\Program Files (x86)\Common Files\Oracle\Java\javapath;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Windows\System32\OpenSSH\;C:\Program Files\Azure Data Studio\bin;C:\Program Files\Microsoft SQL Server\Client SDK\ODBC\170\Tools\Binn\;C:\Program Files (x86)\Microsoft SQL Server\150\Tools\Binn\;C:\Program Files\Microsoft SQL Server\150\Tools\Binn\;C:\Program Files\Microsoft SQL Server\150\DTS\Binn\;C:\Program Files (x86)\Microsoft SQL Server\150\DTS\Binn\;C:\Program Files\dotnet\;C:\Users\理磬\AppData\Local\Programs\Python\Python37;C:\Users\理磬\AppData\Local\Programs\Python\Python37\Scripts;C:\Program Files\Git\cmd;C:\Program Files\PowerShell\7\;C:\Users\理磬\AppData\Local\Programs\Python\Python311\Scripts\;C:\Users\理磬\AppData\Local\Programs\Python\Python311\;C:\Users\理磬\AppData\Local\Programs\Python\Python310\Scripts\;C:\Users\理磬\AppData\Local\Programs\Python\Python310\;C:\Users\理磬\AppData\Local\Programs\Python\Python37\Scripts\;C:\Users\理磬\AppData\Local\Programs\Python\Python37\;C:\Program Files\GTK3-Runtime Win64;C:\Program Files\GTK3-Runtime Win64\bin;C:\Users\理磬\PycharmProjects;C:\Users\理磬\AppData\Local\Microsoft\WindowsApps;C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2021.3.3\bin;C:\Users\理磬\.dotnet\tools;C:\Users\理磬\Desktop\Eclipse lib\SqlServerJDBC\sqljdbc_11.2\rus\auth\x64;C:\Program Files\JetBrains\PyCharm Community Edition 2023.2.1\bin;C:\Program Files\Java\jre-1.8\bin
+Check launcher:	C:\Program Files\Rockwell Software\RSCommon\bin\javaw.exe (not found)
+Check launcher:	C:\Lubae nenujna\bin\javaw.exe (not found)
+Check launcher:	C:\Program Files\Common Files\Oracle\Java\javapath\bin\javaw.exe (not found)
+Check launcher:	C:\Program Files (x86)\Common Files\Oracle\Java\javapath\bin\javaw.exe (not found)
+Check launcher:	C:\Windows\system32\bin\javaw.exe (not found)
+Check launcher:	C:\Windows\bin\javaw.exe (not found)
+Check launcher:	C:\Windows\System32\Wbem\bin\javaw.exe (not found)
+Check launcher:	C:\Windows\System32\WindowsPowerShell\v1.0\bin\javaw.exe (not found)
+Check launcher:	C:\Windows\System32\OpenSSH\bin\javaw.exe (not found)
+Check launcher:	C:\Program Files\Azure Data Studio\bin\javaw.exe (not found)
+Check launcher:	C:\Program Files\Microsoft SQL Server\Client SDK\ODBC\170\Tools\Binn\bin\javaw.exe (not found)
+Check launcher:	C:\Program Files (x86)\Microsoft SQL Server\150\Tools\Binn\bin\javaw.exe (not found)
+Check launcher:	C:\Program Files\Microsoft SQL Server\150\Tools\Binn\bin\javaw.exe (not found)
+Check launcher:	C:\Program Files\Microsoft SQL Server\150\DTS\Binn\bin\javaw.exe (not found)
+Check launcher:	C:\Program Files (x86)\Microsoft SQL Server\150\DTS\Binn\bin\javaw.exe (not found)
+Check launcher:	C:\Program Files\dotnet\bin\javaw.exe (not found)
+Check launcher:	C:\Users\理磬\AppData\Local\Programs\Python\Python37\bin\javaw.exe (not found)
+Check launcher:	C:\Users\理磬\AppData\Local\Programs\Python\Python37\Scripts\bin\javaw.exe (not found)
+Check launcher:	C:\Program Files\Git\cmd\bin\javaw.exe (not found)
+Check launcher:	C:\Program Files\PowerShell\7\bin\javaw.exe (not found)
+Check launcher:	C:\Users\理磬\AppData\Local\Programs\Python\Python311\Scripts\bin\javaw.exe (not found)
+Check launcher:	C:\Users\理磬\AppData\Local\Programs\Python\Python311\bin\javaw.exe (not found)
+Check launcher:	C:\Users\理磬\AppData\Local\Programs\Python\Python310\Scripts\bin\javaw.exe (not found)
+Check launcher:	C:\Users\理磬\AppData\Local\Programs\Python\Python310\bin\javaw.exe (not found)
+Check launcher:	C:\Users\理磬\AppData\Local\Programs\Python\Python37\Scripts\bin\javaw.exe (not found)
+Check launcher:	C:\Users\理磬\AppData\Local\Programs\Python\Python37\bin\javaw.exe (not found)
+Check launcher:	C:\Program Files\GTK3-Runtime Win64\bin\javaw.exe (not found)
+Check launcher:	C:\Program Files\GTK3-Runtime Win64\bin\javaw.exe (not found)
+Check launcher:	C:\Users\理磬\PycharmProjects\bin\javaw.exe (not found)
+Check launcher:	C:\Users\理磬\AppData\Local\Microsoft\WindowsApps\bin\javaw.exe (not found)
+Check launcher:	C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2021.3.3\bin\javaw.exe (not found)
+Check launcher:	C:\Users\理磬\.dotnet\tools\bin\javaw.exe (not found)
+Check launcher:	C:\Users\理磬\Desktop\Eclipse lib\SqlServerJDBC\sqljdbc_11.2\rus\auth\x64\bin\javaw.exe (not found)
+Check launcher:	C:\Program Files\JetBrains\PyCharm Community Edition 2023.2.1\bin\javaw.exe (not found)
+Check launcher:	C:\Program Files\Java\jre-1.8\bin\javaw.exe (OK)
+Check javac:	C:\Program Files\Java\jre-1.8\bin\javac.exe (not found)
+64-bit search:	SOFTWARE\JavaSoft\Java Development Kit...
+32-bit search:	SOFTWARE\JavaSoft\Java Development Kit...
+64-bit search:	SOFTWARE\JavaSoft\JDK...
+Check:		SOFTWARE\JavaSoft\JDK\17.0.2
+Version string: 1.017.000_002 / 64-Bit (OK)
+Check launcher:	C:\Program Files\Java\jdk-17.0.2\bin\javaw.exe (OK)
+Check javac:	C:\Program Files\Java\jdk-17.0.2\bin\javac.exe (OK)
+Match:		1.017.000_002
+Runtime used:	1.017.000_002 (64-bit)
+Launcher:	C:\Program Files\Java\jdk-17.0.2\bin\javaw.exe
+Launcher args:	-jar "C:\Users\理磬\IdeaProjects\JavaFX_2\ProductApp.exe"
+Args length:	57/32768 chars
+Exit code:	0
