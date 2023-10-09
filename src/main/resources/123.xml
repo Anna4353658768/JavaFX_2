@@ -75,19 +75,4 @@
         <name>Батон</name>
         <weight>200.0</weight>
     </product>
-    <product>
-        <size>
-            <height>1.0</height>
-            <length>1.0</length>
-            <width>1.0</width>
-        </size>
-        <мanufacturer>
-            <contact_person>1</contact_person>
-            <country>1</country>
-            <name>1</name>
-            <phone>1</phone>
-        </мanufacturer>
-        <name>1</name>
-        <weight>1.0</weight>
-    </product>
 </products>
